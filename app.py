@@ -82,3 +82,12 @@ if mata_pelajaran:
     filtered_ujian_data = ujian_data[ujian_data['mata_pelajaran'] == mata_pelajaran]
     recommended = filtered_ujian_data.sort_values(by='nilai_rataan_ujian', ascending=False).iloc[0]
     st.write(f"Sekolah {recommended['jenis sekolah/ jenjang']} {recommended['status sekolah']} direkomendasikan untuk mata pelajaran {mata_pelajaran} dengan rata-rata nilai {recommended['nilai_rataan_ujian']}")
+
+
+hide_streamlit_style = """
+            <style>
+            #MainMenu {visibility: hidden;}
+            footer {visibility: hidden;}
+            </style>
+            """
+st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
