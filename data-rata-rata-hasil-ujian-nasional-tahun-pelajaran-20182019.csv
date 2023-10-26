@@ -1,0 +1,59 @@
+jenis sekolah/ jenjang,status sekolah,mata_pelajaran,nilai_rataan_ujian
+SD,Negeri,Bahasa Indonesia,71.68
+SD,Negeri,Matematika,61.14
+SD,Negeri,IPA,70.34
+SD,Swasta,Bahasa Indonesia,73.26
+SD,Swasta,Matematika,64.80
+SD,Swasta,IPA,70.78
+SMP/MTS,Negeri,Bahasa Indonesia,76.47
+SMP/MTS,Negeri,Bahasa Inggris,61.93
+SMP/MTS,Negeri,Matematika,55.54
+SMP/MTS,Negeri,IPA,58.96
+SMP/MTS,Swasta,Bahasa Indonesia,65.80
+SMP/MTS,Swasta,Bahasa Inggris,57.14
+SMP/MTS,Swasta,Matematika,47.07
+SMP/MTS,Swasta,IPA,48.48
+SMA/MA IPA,Negeri,Bahasa Indonesia,81.64
+SMA/MA IPA,Negeri,Bahasa Inggris,73.51
+SMA/MA IPA,Negeri,Matematika,51.69
+SMA/MA IPA,Negeri,Fisika,55.81
+SMA/MA IPA,Negeri,Kimia,60.98
+SMA/MA IPA,Negeri,Biologi,63.57
+SMA/MA IPA,Swasta,Bahasa Indonesia,75.28
+SMA/MA IPA,Swasta,Bahasa Inggris,70.71
+SMA/MA IPA,Swasta,Matematika,47.43
+SMA/MA IPA,Swasta,Fisika,51.71
+SMA/MA IPA,Swasta,Kimia,55.43
+SMA/MA IPA,Swasta,Biologi,58.09
+SMA/MA IPS,Negeri,Bahasa Indonesia,79.07
+SMA/MA IPS,Negeri,Bahasa Inggris,69.68
+SMA/MA IPS,Negeri,Matematika,48.66
+SMA/MA IPS,Negeri,Ekonomi,68.78
+SMA/MA IPS,Negeri,Sosiologi,71.03
+SMA/MA IPS,Negeri,Geografi,69.28
+SMA/MA IPS,Swasta,Bahasa Indonesia,68.08
+SMA/MA IPS,Swasta,Bahasa Inggris,61.38
+SMA/MA IPS,Swasta,Matematika,41.18
+SMA/MA IPS,Swasta,Ekonomi,58.18
+SMA/MA IPS,Swasta,Sosiologi,60.98
+SMA/MA IPS,Swasta,Geografi,57.91
+SMA/MA BAHASA,Negeri,Bahasa Indonesia,71.53
+SMA/MA BAHASA,Negeri,Bahsa Inggris,69.99
+SMA/MA BAHASA,Negeri,Matematika,47.68
+SMA/MA BAHASA,Negeri,Sastra Indonesia,79.71
+SMA/MA BAHASA,Negeri,Antropologi,71.55
+SMA/MA BAHASA,Negeri,Bahasa Asing,78.28
+SMA/MA BAHASA,Swasta,Bahasa Indonesia,72.65
+SMA/MA BAHASA,Swasta,Bahsa Inggris,86.34
+SMA/MA BAHASA,Swasta,Matematika,59.42
+SMA/MA BAHASA,Swasta,Sastra Indonesia,65.11
+SMA/MA BAHASA,Swasta,Antropologi,74.13
+SMA/MA BAHASA,Swasta,Bahasa Asing,83.36
+SMK ,Negeri,Bahasa Indonesia,81.13
+SMK ,Negeri,Bahasa inggris,61.09
+SMK ,Negeri,Matematika,56.03
+SMK ,Negeri,Kompetensi,58.97
+SMK ,Swasta,Bahasa Indonesia,67.04
+SMK ,Swasta,Bahasa inggris,45.13
+SMK ,Swasta,Matematika,36.07
+SMK ,Swasta,Kompetensi,44.21
