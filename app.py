@@ -11,7 +11,7 @@ def load_data():
     data = pd.read_csv('DataSebaranSekolah.csv')
     return data
 
-st.cache_resource
+@st.cache_resource
 def load_ujian_data():
     return pd.read_csv('data-rata-rata-hasil-ujian-nasional-tahun-pelajaran-20182019.csv')
 
